@@ -1,6 +1,8 @@
- __pycache__/
+__pycache__/
 *.pyc
 *.pkl
 *.log
 config.json
 .env
+.idea/
+.ipynb_checkpoints/
